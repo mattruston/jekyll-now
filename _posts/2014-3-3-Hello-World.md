@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Week One: The Beginning
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<h3>What did I do this past week</h3>
+This first week of classes was a fairly short one, but already I can tell this will be a wonderful semester. We spent most of the first day going through the typical information about the course, and then getting a quick preview of C++ by looking at a simple program to output a line of text.
