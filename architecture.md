@@ -64,11 +64,11 @@ ___
 
 ### Google Earth
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Google-Earth.png?raw=true "Seona Reid Building from above")
-<p>The building is located in a city, surrounded by many other buildings. From above the building doesn't really stand out, shaped as a rectangle so that it best fits in with the rest of the city without wasting space.</p>
+![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Google-Earth.jpg?raw=true "Seona Reid Building from above")
+
+<p>The building is located in a city, surrounded by many other buildings. From above the building doesn't really stand out; shaped as a rectangle so that it best fits in with the rest of the city without wasting space.</p>
 
 ___
-
 
 
 #### Sites used: ####
