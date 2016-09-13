@@ -80,7 +80,19 @@ ___
 
 <https://vimeo.com/101410201>
 
-Watching this video truely revealed how open the building was, and how every space felt connected. The shots at night showed how the building glows from the lights inside shining through the semiopaque side panels.
+Watching this video truly revealed how open the building was, and how every space felt connected. The shots at night showed how the building glows from the lights inside shining through the semiopaque side panels.
+
+___
+
+### Pertinent Facts About Holl
+
+<http://inhabitat.com/interview-exclusive-7-questions-with-architect-steven-holl/>
+
+- Holl believes that architecture needs to strongly be a part of its environment, but should go deeper than the style of the environment. This fits with the Seona Reid Building, which had a main focus of being a 'homage' to the neighboring building, but has a far different style.
+- Holl believes that light is one of "the core aim[s]" of architecture. Because of this he puts great emphasis on the lighting of a building, which is seen in the Seona Reid Building.
+  * "Space is oblivion without light"
+
+- Holl believes that the environment created by architecture feels alive and inspires others. This matches with his intentions for the Seona Reid Build to inspire the students working in it.
 
 ___
 
@@ -94,10 +106,20 @@ ___
 
 ___
 
-#### Sites used: ####
+#### Sources used: ####
 
-- http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects
-- http://www.arcspace.com/features/steven-holl-architects/glasgow-school-of-art/
+- "Seona Reid Building / Steven Holl Architects." ArchDaily. N.p., 06 Mar. 2014. Web. 13 Sept. 2016. <http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects>.
+
+- Meyer, By Ulf. "Glasgow School of Art - Steven Holl Architects." Arcspace. N.p., 8 May 2014. Web. 13 Sept. 2016. <http://www.arcspace.com/features/steven-holl-architects/glasgow-school-of-art/>.
+
 - Dunlop, A. "Holl's 'homage' to Mackintosh in Glasgow A Building That Could Be Described as Symphonic." Arq-architectural Research Quarterly 17.2 (2013): 101-03. 12 Sept. 2016.
+
 - Rodger, J. "Putting Holl and Mackintosh in Multi-perspective: The New Building at the Glasgow School of Art." Arq-architectural Research Quarterly 17.1 (2013): 25-36. 12 Sept. 2016.
+
 - "Art Academy in Glasgow : Steven Holl Architects, New York City." Detail (English Ed.) 5 (2014): 572-76. Web. 12 Sept. 2016.
+
+- Pham, Diane. "INHABITAT INTERVIEW: 7 Questions with Architect Steven Holl." Inhabitat Green Design Innovation Architecture Green Building. N.p., 5 Nov. 2014. Web. 13 Sept. 2016. <http://inhabitat.com/interview-exclusive-7-questions-with-architect-steven-holl/>.
+
+- "Reid Building at The Glasgow School of Art, Steven Holl Architects." Vimeo. Steven Holl Architects, 2014. Web. 13 Sept. 2016. <https://vimeo.com/101410201>.
+
+- Minutillo, Josephine. "10 Questions With... Steven Holl." Interior Design. N.p., 30 May 2014. Web. 13 Sept. 2016. <http://www.interiordesign.net/articles/8288-10-questions-with-steven-holl/>.
