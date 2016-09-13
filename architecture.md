@@ -66,7 +66,7 @@ ___
 
 ![Seona Reid Building from above](https://github.com/mattruston/mattruston.github.io/blob/master/images/From-Above.jpg?raw=true "Seona Reid Building from above")
 
-<p>In my sketch I tried to capture the contrasting styles of the dark, stone, masonry of the old building it was built over, compared to the slick, gray, modern style. I also tried to show the exact angles and lines the modern style has compared to the more textured and splotchy stone of the surrounding buildings.</p>
+<p>The building is located in a city, surrounded by many other buildings. From above the building doesn't really stand out; shaped as a rectangle so that it best fits in with the rest of the city without wasting space.</p>
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 ![My Drawing](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Drawing.jpg?raw=true "My Drawing")
 
-<p>The building is located in a city, surrounded by many other buildings. From above the building doesn't really stand out; shaped as a rectangle so that it best fits in with the rest of the city without wasting space.</p>
+<p>In my sketch I tried to capture the contrasting styles of the dark, stone, masonry of the old building it was built over, compared to the slick, gray, modern style. I also tried to show the exact angles and lines the modern style has compared to the more textured and splotchy stone of the surrounding buildings.</p>
 
 ___
 
