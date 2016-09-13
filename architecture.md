@@ -6,8 +6,8 @@ permalink: /architecture/
 
 ## Seona Reid Building
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building.jpg?raw=true)
-<https://www.flickr.com/photos/glasgowschoolart/12928172694/sizes/l/>
+![Seona Reid Building](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building.jpg?raw=true)
+[Source](https://www.flickr.com/photos/glasgowschoolart/12928172694/sizes/l/)
 
 ___
 
@@ -25,18 +25,18 @@ The Seona Reid Building contains many studios and workshops for the students at 
 
 ___
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Section_AA.jpg?raw=true "Section AA")
-<http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5318d675c07a80688c000146-seona-reid-building-steven-holl-architects-section-aa>
+![Section AA](https://github.com/mattruston/mattruston.github.io/blob/master/images/Section_AA.jpg?raw=true "Section AA")
+[Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5318d675c07a80688c000146-seona-reid-building-steven-holl-architects-section-aa)
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Ground_Floor_Plan.jpg?raw=true "Ground Floor Plan")
-<http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5318d63fc07a80688c000145-seona-reid-building-steven-holl-architects-ground-floor-plan>
+![Ground Floor Plan](https://github.com/mattruston/mattruston.github.io/blob/master/images/Ground_Floor_Plan.jpg?raw=true "Ground Floor Plan")
+[Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5318d63fc07a80688c000145-seona-reid-building-steven-holl-architects-ground-floor-plan)
 
 ___
 
 ### Contrasting Styles
 
 ![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Side-Styles.jpg?raw=true "Image With Materials")
-<http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fd88c07a80688c0000af-seona-reid-building-steven-holl-architects-photo>
+[Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fd88c07a80688c0000af-seona-reid-building-steven-holl-architects-photo)
 <p>In this image of the building's exterior you can see the contrasting styles of the old stone used in much of the surrounding buildings, against the new smooth surface of the glass panels. The intention of the design was to move the art school into the 21st century, with a modern look of open spaces and lightweight materials. While the glass surfaces that cover the building give it the appearance of a light building, it was actually constructed with concrete as the frame that is behind the panels. The combination of the old style surrounded by the new one helps integrate the building into the surrounding city.</p>
 
 ___
@@ -57,7 +57,7 @@ ___
 ### A Look Inside
 
 ![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building-Interior.jpg?raw=true "Seona Reid Building Interior")
-<http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fdc9c07a80688c0000b0-seona-reid-building-steven-holl-architects-photo>
+[Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fdc9c07a80688c0000b0-seona-reid-building-steven-holl-architects-photo)
 <p>This image inside reveals how spacious the building feels, with high ceilings and the different levels being open to one another. Here you can also see one of the open columns that goes all the way to the top of the building, allowing light to come in and keep everything well lit. All of the walls are simply painted white, allowing for students' art to be the main focus when put on display.</p>
 
 ___
