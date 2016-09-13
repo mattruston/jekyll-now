@@ -58,7 +58,7 @@ ___
 
 ![Seona Reid Building Interior](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building-Interior.jpg?raw=true "Seona Reid Building Interior")
 [Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fdc9c07a80688c0000b0-seona-reid-building-steven-holl-architects-photo)
-<p>This image inside reveals how spacious the building feels, with high ceilings and the different levels being open to one another. Here you can also see one of the open columns that goes all the way to the top of the building, allowing light to come in and keep everything well lit. All of the walls are simply painted white, allowing for students' art to be the main focus when put on display.</p>
+<p>This image inside reveals how spacious the building feels, with high ceilings and the different levels being open to one another. Here you can also see one of the open columns that goes all the way to the top of the building, allowing light to come in and keep everything well lit. All of the walls are simply painted white, allowing for students' art to be the main focus when put on display. The image also shows the winding geometry of the building, which helps it act as a catalyst for creativity and makes the environment feel free flowing.</p>
 
 ___
 
@@ -89,6 +89,14 @@ ___
 <https://vimeo.com/101410201>
 
 Watching this video truly revealed how open the building was, and how every space felt connected. The shots at night showed how the building glows from the lights inside shining through the semiopaque side panels.
+
+___
+
+### News article
+
+<http://www.iconeye.com/architecture/news/item/10201-reid-building-by-steven-holl>
+
+An important point this article brings up is that the acoustics in the building are not the best. For a building that is meant to have people collaborate, having poor acoustics can lead to a noisy environment. I agree with this article's statement since I noticed the same thing in some of the videos that showed off the inside of the building. Originally I just shrugged it off since I haven't been there in person, but since the author of this article has, I feel my impression was correct. 
 
 ___
 
@@ -131,3 +139,5 @@ ___
 - "Reid Building at The Glasgow School of Art, Steven Holl Architects." Vimeo. Steven Holl Architects, 2014. Web. 13 Sept. 2016. <https://vimeo.com/101410201>.
 
 - Minutillo, Josephine. "10 Questions With... Steven Holl." Interior Design. N.p., 30 May 2014. Web. 13 Sept. 2016. <http://www.interiordesign.net/articles/8288-10-questions-with-steven-holl/>.
+
+- "Reid Building by Steven Holl - Icon Magazine." Icon. N.p., 15 May 2014. Web. 13 Sept. 2016. <http://www.iconeye.com/architecture/news/item/10201-reid-building-by-steven-holl>.
