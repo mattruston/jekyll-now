@@ -35,7 +35,7 @@ ___
 
 ### Contrasting Styles
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Side-Styles.jpg?raw=true "Image With Materials")
+![Image With Materials](https://github.com/mattruston/mattruston.github.io/blob/master/images/Side-Styles.jpg?raw=true "Image With Materials")
 [Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fd88c07a80688c0000af-seona-reid-building-steven-holl-architects-photo)
 <p>In this image of the building's exterior you can see the contrasting styles of the old stone used in much of the surrounding buildings, against the new smooth surface of the glass panels. The intention of the design was to move the art school into the 21st century, with a modern look of open spaces and lightweight materials. While the glass surfaces that cover the building give it the appearance of a light building, it was actually constructed with concrete as the frame that is behind the panels. The combination of the old style surrounded by the new one helps integrate the building into the surrounding city.</p>
 
@@ -43,8 +43,8 @@ ___
 
 ### A Sheer Facade
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building-Facade.png?raw=true "Seona Reid Building Facade")
-<p>Here you can see the smooth facade of the building.</p>
+![Seona Reid Building Facade](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building-Facade.png?raw=true "Seona Reid Building Facade")
+<p>Here you can see the smooth facade of the building. From this side you can also notice the interesting geometry of the building. While it ultimately fits the city block as a rectangle, the shape within that is more abstract and even flows inside.</p>
 
 #### Image from "Art Academy in Glasgow : Steven Holl Architects, New York City." Journal Article
 ___
@@ -56,7 +56,7 @@ ___
 
 ### A Look Inside
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building-Interior.jpg?raw=true "Seona Reid Building Interior")
+![Seona Reid Building Interior](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Building-Interior.jpg?raw=true "Seona Reid Building Interior")
 [Source](http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fdc9c07a80688c0000b0-seona-reid-building-steven-holl-architects-photo)
 <p>This image inside reveals how spacious the building feels, with high ceilings and the different levels being open to one another. Here you can also see one of the open columns that goes all the way to the top of the building, allowing light to come in and keep everything well lit. All of the walls are simply painted white, allowing for students' art to be the main focus when put on display.</p>
 
@@ -64,7 +64,15 @@ ___
 
 ### Google Earth
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/From-Above.jpg?raw=true "Seona Reid Building from above")
+![Seona Reid Building from above](https://github.com/mattruston/mattruston.github.io/blob/master/images/From-Above.jpg?raw=true "Seona Reid Building from above")
+
+<p>In my sketch I tried to capture the contrasting styles of the dark, stone, masonry of the old building it was built over, compared to the slick, gray, modern style. I also tried to show the exact angles and lines the modern style has compared to the more textured and splotchy stone of the surrounding buildings.</p>
+
+___
+
+### My Drawing
+
+![My Drawing](https://github.com/mattruston/mattruston.github.io/blob/master/images/Seona-Reid-Drawing.jpg?raw=true "My Drawing")
 
 <p>The building is located in a city, surrounded by many other buildings. From above the building doesn't really stand out; shaped as a rectangle so that it best fits in with the rest of the city without wasting space.</p>
 
