@@ -35,7 +35,7 @@ ___
 
 ### Contrasting Styles
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Side-Styles.jpg?raw=true "Section AA")
+![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Side-Styles.jpg?raw=true "Image With Materials")
 <http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fd88c07a80688c0000af-seona-reid-building-steven-holl-architects-photo>
 <p>In this image of the building's exterior you can see the contrasting styles of the old stone used in much of the surrounding buildings, against the new smooth surface of the glass panels. The intention of the design was to move the art school into the 21st century, with a modern look of open spaces and lightweight materials. While the glass surfaces that cover the building give it the appearance of a light building, it was actually constructed with concrete as the frame that is behind the panels. The combination of the old style surrounded by the new one helps integrate the building into the surrounding city.</p>
 
@@ -64,12 +64,35 @@ ___
 
 ### Google Earth
 
-![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/Google-Earth.jpg?raw=true "Seona Reid Building from above")
+![alt text](https://github.com/mattruston/mattruston.github.io/blob/master/images/From-Above.jpg?raw=true "Seona Reid Building from above")
 
 <p>The building is located in a city, surrounded by many other buildings. From above the building doesn't really stand out; shaped as a rectangle so that it best fits in with the rest of the city without wasting space.</p>
 
 ___
 
+### Interview With Steven Holl
+
+<http://www.interiordesign.net/articles/8288-10-questions-with-steven-holl/>
+
+___
+
+### Video Through the Building
+
+<https://vimeo.com/101410201>
+
+Watching this video truely revealed how open the building was, and how every space felt connected. The shots at night showed how the building glows from the lights inside shining through the semiopaque side panels.
+
+___
+
+### Some Resources...
+
+<ul>
+	<li><a href="https://www.flickr.com/photos/106023896@N05/albums/72157636758818184">Building under construction</a></li>
+	<li><a href="http://www.archdaily.com/483381/seona-reid-building-steven-holl-architects/5317fe27c07a806cd90000c2-seona-reid-building-steven-holl-architects-photo">Photos and plans</a></li>
+	<li><a href="http://www.stevenholl.com/projects/glasgow-school-of-art">Steven Holl Architects Site</a></li>
+</ul>
+
+___
 
 #### Sites used: ####
 
