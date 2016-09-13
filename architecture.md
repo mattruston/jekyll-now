@@ -120,6 +120,14 @@ ___
 	<li><a href="http://www.stevenholl.com/projects/glasgow-school-of-art">Steven Holl Architects Site</a></li>
 </ul>
 
+### Some sources that discuss criticism:
+
+<ul>
+	<li><a href="http://architizer.com/blog/steven-holls-reid-building-latest-glasgow-attraction/">Blog post</a></li>
+	<li>"Holl's 'homage' to Mackintosh in Glasgow A Building That Could Be Described as Symphonic."</li>
+	<li>"Putting Holl and Mackintosh in Multi-perspective: The New Building at the Glasgow School of Art."</li>
+</ul>
+
 ___
 
 #### Sources used: ####
