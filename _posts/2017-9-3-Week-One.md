@@ -20,4 +20,5 @@ Overall, I still really enjoy Downing's classes. I like the way he teaches and I
 
 ### Pick of the week
 http://nshipster.com/method-swizzling/
+
 While this is mostly specific to Objective-C, I still think this is an interesting concept. Thinking about how your tools work and understanding what you can do with them is an important thing to consider when you are programming.
