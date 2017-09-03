@@ -19,6 +19,6 @@ I believe our first project will be posted this week, so I plan on getting every
 Overall, I still really enjoy Downing's classes. I like the way he teaches and I am excited for us to start getting into some material that I haven’t seen before. Obviously this first week covered some of the more basic material, but I'm sure I will start to learn some new things soon.
 
 ### Pick of the week
-http://nshipster.com/method-swizzling/
+<a>http://nshipster.com/method-swizzling/</a>
 
 While this is mostly specific to Objective-C, I still think this is an interesting concept. Thinking about how your tools work and understanding what you can do with them is an important thing to consider when you are programming.
