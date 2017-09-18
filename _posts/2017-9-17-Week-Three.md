@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week Two: Getting busy"
+title: "Week Three: Getting busy"
 ---
 
 ### What did I do this past week
