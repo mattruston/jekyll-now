@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+include: [".well-known"]
+
